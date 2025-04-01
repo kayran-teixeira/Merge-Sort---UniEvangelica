@@ -1,1 +1,1 @@
-# Apresenta-o-Merge-Sort---UniEvang-lica
+Repositório voltado para apresentação do algoritmo Merge Sort
